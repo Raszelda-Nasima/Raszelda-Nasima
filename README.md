@@ -16,7 +16,7 @@
 
 ### 📫 Let's Connect
 
-- 📧 nasima.your@email.com  
+- 📧 sharonnasima123@gmail.com 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/raszelda-nasima-9699a2301/)  
 - 💻 Portfolio: coming soon...
 
