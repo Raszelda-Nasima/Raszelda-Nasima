@@ -7,7 +7,7 @@
 
 ### 💕 About Me
 
-- 🎓 3rd-year student studying Software Development  
+- 🎓 final-year student studying Software Development  
 - ✨ Passionate about clean code, creativity, and helping people  
 - 🌱 Learning React, MongoDB & cloud stuff (AWS/Azure)  
 - 🍰 Fun fact: I love drawing & building apps from scratch!  
