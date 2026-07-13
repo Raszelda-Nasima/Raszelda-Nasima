@@ -1,7 +1,7 @@
 ## Hi there, I'm Raszelda Nasima👋
 
-💻Computer Science student at Namibia University of Science and Technology
-💻 Software Dev Student • 🌍 Windhoek, Namibia • ☁️ Future Full-Stack Dev
+💻Computer Science graduate from Namibia University of Science and Technology
+💻 Software Engineer • 🌍 Windhoek, Namibia • ☁️ Future Full-Stack Dev
 
 ---
 
