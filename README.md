@@ -7,9 +7,8 @@
 
 ### 💕 About Me
 
-- 🎓 Bachelor's Degree Qualified Software Developer 
+- 🎓 Bachelor's Degree Qualified Software Engineer
 - ✨ Passionate about clean code, creativity, and helping people  
-- 🌱 Learning React, MongoDB & cloud stuff (AWS/Azure)  
 - 🍰 Fun fact: I love drawing & building apps from scratch!  
 
 ---
